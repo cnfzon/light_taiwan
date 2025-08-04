@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTYNAME": "臺北市",
+        "COUNTYENG": "Taipei City"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.45,
+              25.05
+            ],
+            [
+              121.6,
+              25.05
+            ],
+            [
+              121.6,
+              25.15
+            ],
+            [
+              121.45,
+              25.15
+            ],
+            [
+              121.45,
+              25.05
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTYNAME": "高雄市",
+        "COUNTYENG": "Kaohsiung City"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.25,
+              22.55
+            ],
+            [
+              120.4,
+              22.55
+            ],
+            [
+              120.4,
+              22.7
+            ],
+            [
+              120.25,
+              22.7
+            ],
+            [
+              120.25,
+              22.55
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

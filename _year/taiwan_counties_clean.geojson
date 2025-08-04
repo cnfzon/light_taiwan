@@ -1,0 +1,753 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.0,
+              22.0
+            ],
+            [
+              120.3,
+              22.0
+            ],
+            [
+              120.3,
+              22.3
+            ],
+            [
+              120.0,
+              22.3
+            ],
+            [
+              120.0,
+              22.0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "COUNTYNAME": "基隆市",
+        "COUNTYENG": "Keelung"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.5,
+              22.0
+            ],
+            [
+              120.8,
+              22.0
+            ],
+            [
+              120.8,
+              22.3
+            ],
+            [
+              120.5,
+              22.3
+            ],
+            [
+              120.5,
+              22.0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "COUNTYNAME": "臺北市",
+        "COUNTYENG": "Taipei"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0,
+              22.0
+            ],
+            [
+              121.3,
+              22.0
+            ],
+            [
+              121.3,
+              22.3
+            ],
+            [
+              121.0,
+              22.3
+            ],
+            [
+              121.0,
+              22.0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "COUNTYNAME": "新北市",
+        "COUNTYENG": "NewTaipei"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.5,
+              22.0
+            ],
+            [
+              121.8,
+              22.0
+            ],
+            [
+              121.8,
+              22.3
+            ],
+            [
+              121.5,
+              22.3
+            ],
+            [
+              121.5,
+              22.0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "COUNTYNAME": "桃園市",
+        "COUNTYENG": "Taoyuan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              122.0,
+              22.0
+            ],
+            [
+              122.3,
+              22.0
+            ],
+            [
+              122.3,
+              22.3
+            ],
+            [
+              122.0,
+              22.3
+            ],
+            [
+              122.0,
+              22.0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "COUNTYNAME": "新竹市",
+        "COUNTYENG": "HsinchuCity"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              122.5,
+              22.0
+            ],
+            [
+              122.8,
+              22.0
+            ],
+            [
+              122.8,
+              22.3
+            ],
+            [
+              122.5,
+              22.3
+            ],
+            [
+              122.5,
+              22.0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "COUNTYNAME": "新竹縣",
+        "COUNTYENG": "Hsinchu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.0,
+              22.5
+            ],
+            [
+              120.3,
+              22.5
+            ],
+            [
+              120.3,
+              22.8
+            ],
+            [
+              120.0,
+              22.8
+            ],
+            [
+              120.0,
+              22.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "COUNTYNAME": "苗栗縣",
+        "COUNTYENG": "Miaoli"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.5,
+              22.5
+            ],
+            [
+              120.8,
+              22.5
+            ],
+            [
+              120.8,
+              22.8
+            ],
+            [
+              120.5,
+              22.8
+            ],
+            [
+              120.5,
+              22.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "COUNTYNAME": "臺中市",
+        "COUNTYENG": "Taichung"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0,
+              22.5
+            ],
+            [
+              121.3,
+              22.5
+            ],
+            [
+              121.3,
+              22.8
+            ],
+            [
+              121.0,
+              22.8
+            ],
+            [
+              121.0,
+              22.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "COUNTYNAME": "彰化縣",
+        "COUNTYENG": "Changhua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.5,
+              22.5
+            ],
+            [
+              121.8,
+              22.5
+            ],
+            [
+              121.8,
+              22.8
+            ],
+            [
+              121.5,
+              22.8
+            ],
+            [
+              121.5,
+              22.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "COUNTYNAME": "南投縣",
+        "COUNTYENG": "Nantou"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              122.0,
+              22.5
+            ],
+            [
+              122.3,
+              22.5
+            ],
+            [
+              122.3,
+              22.8
+            ],
+            [
+              122.0,
+              22.8
+            ],
+            [
+              122.0,
+              22.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "COUNTYNAME": "雲林縣",
+        "COUNTYENG": "Yunlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              122.5,
+              22.5
+            ],
+            [
+              122.8,
+              22.5
+            ],
+            [
+              122.8,
+              22.8
+            ],
+            [
+              122.5,
+              22.8
+            ],
+            [
+              122.5,
+              22.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "COUNTYNAME": "嘉義市",
+        "COUNTYENG": "ChiayiCity"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.0,
+              23.0
+            ],
+            [
+              120.3,
+              23.0
+            ],
+            [
+              120.3,
+              23.3
+            ],
+            [
+              120.0,
+              23.3
+            ],
+            [
+              120.0,
+              23.0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "COUNTYNAME": "嘉義縣",
+        "COUNTYENG": "Chiayi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.5,
+              23.0
+            ],
+            [
+              120.8,
+              23.0
+            ],
+            [
+              120.8,
+              23.3
+            ],
+            [
+              120.5,
+              23.3
+            ],
+            [
+              120.5,
+              23.0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "COUNTYNAME": "臺南市",
+        "COUNTYENG": "Tainan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0,
+              23.0
+            ],
+            [
+              121.3,
+              23.0
+            ],
+            [
+              121.3,
+              23.3
+            ],
+            [
+              121.0,
+              23.3
+            ],
+            [
+              121.0,
+              23.0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "COUNTYNAME": "高雄市",
+        "COUNTYENG": "Kaohsiung"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.5,
+              23.0
+            ],
+            [
+              121.8,
+              23.0
+            ],
+            [
+              121.8,
+              23.3
+            ],
+            [
+              121.5,
+              23.3
+            ],
+            [
+              121.5,
+              23.0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "COUNTYNAME": "屏東縣",
+        "COUNTYENG": "Pingtung"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              122.0,
+              23.0
+            ],
+            [
+              122.3,
+              23.0
+            ],
+            [
+              122.3,
+              23.3
+            ],
+            [
+              122.0,
+              23.3
+            ],
+            [
+              122.0,
+              23.0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "COUNTYNAME": "宜蘭縣",
+        "COUNTYENG": "Yilan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              122.5,
+              23.0
+            ],
+            [
+              122.8,
+              23.0
+            ],
+            [
+              122.8,
+              23.3
+            ],
+            [
+              122.5,
+              23.3
+            ],
+            [
+              122.5,
+              23.0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "COUNTYNAME": "花蓮縣",
+        "COUNTYENG": "Hualien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.0,
+              23.5
+            ],
+            [
+              120.3,
+              23.5
+            ],
+            [
+              120.3,
+              23.8
+            ],
+            [
+              120.0,
+              23.8
+            ],
+            [
+              120.0,
+              23.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "COUNTYNAME": "臺東縣",
+        "COUNTYENG": "Taitung"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.5,
+              23.5
+            ],
+            [
+              120.8,
+              23.5
+            ],
+            [
+              120.8,
+              23.8
+            ],
+            [
+              120.5,
+              23.8
+            ],
+            [
+              120.5,
+              23.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "COUNTYNAME": "澎湖縣",
+        "COUNTYENG": "Penghu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0,
+              23.5
+            ],
+            [
+              121.3,
+              23.5
+            ],
+            [
+              121.3,
+              23.8
+            ],
+            [
+              121.0,
+              23.8
+            ],
+            [
+              121.0,
+              23.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "COUNTYNAME": "金門縣",
+        "COUNTYENG": "Kinmen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.5,
+              23.5
+            ],
+            [
+              121.8,
+              23.5
+            ],
+            [
+              121.8,
+              23.8
+            ],
+            [
+              121.5,
+              23.8
+            ],
+            [
+              121.5,
+              23.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "COUNTYNAME": "連江縣",
+        "COUNTYENG": "Lienchiang"
+      }
+    }
+  ]
+}

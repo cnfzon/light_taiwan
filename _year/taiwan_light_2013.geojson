@@ -1,0 +1,29 @@
+{
+"type": "FeatureCollection",
+"name": "taiwan_light_2013",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "county": "基隆市", "avg_light": 0.0, "max_light": 0.0, "pixel_count": 0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 120.0, 22.0 ], [ 120.3, 22.0 ], [ 120.3, 22.3 ], [ 120.0, 22.3 ], [ 120.0, 22.0 ] ] ] } },
+{ "type": "Feature", "properties": { "county": "臺北市", "avg_light": 6.2, "max_light": 28.0, "pixel_count": 486 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 120.5, 22.0 ], [ 120.8, 22.0 ], [ 120.8, 22.3 ], [ 120.5, 22.3 ], [ 120.5, 22.0 ] ] ] } },
+{ "type": "Feature", "properties": { "county": "新北市", "avg_light": 0.0, "max_light": 0.0, "pixel_count": 0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 121.0, 22.0 ], [ 121.3, 22.0 ], [ 121.3, 22.3 ], [ 121.0, 22.3 ], [ 121.0, 22.0 ] ] ] } },
+{ "type": "Feature", "properties": { "county": "桃園市", "avg_light": 1.4, "max_light": 2.0, "pixel_count": 47 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 121.5, 22.0 ], [ 121.8, 22.0 ], [ 121.8, 22.3 ], [ 121.5, 22.3 ], [ 121.5, 22.0 ] ] ] } },
+{ "type": "Feature", "properties": { "county": "新竹市", "avg_light": 0.0, "max_light": 0.0, "pixel_count": 0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 122.0, 22.0 ], [ 122.3, 22.0 ], [ 122.3, 22.3 ], [ 122.0, 22.3 ], [ 122.0, 22.0 ] ] ] } },
+{ "type": "Feature", "properties": { "county": "新竹縣", "avg_light": 0.0, "max_light": 0.0, "pixel_count": 0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 122.5, 22.0 ], [ 122.8, 22.0 ], [ 122.8, 22.3 ], [ 122.5, 22.3 ], [ 122.5, 22.0 ] ] ] } },
+{ "type": "Feature", "properties": { "county": "苗栗縣", "avg_light": 15.6, "max_light": 63.0, "pixel_count": 970 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 120.0, 22.5 ], [ 120.3, 22.5 ], [ 120.3, 22.8 ], [ 120.0, 22.8 ], [ 120.0, 22.5 ] ] ] } },
+{ "type": "Feature", "properties": { "county": "臺中市", "avg_light": 16.43, "max_light": 56.0, "pixel_count": 924 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 120.5, 22.5 ], [ 120.8, 22.5 ], [ 120.8, 22.8 ], [ 120.5, 22.8 ], [ 120.5, 22.5 ] ] ] } },
+{ "type": "Feature", "properties": { "county": "彰化縣", "avg_light": 12.26, "max_light": 47.0, "pixel_count": 418 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 121.0, 22.5 ], [ 121.3, 22.5 ], [ 121.3, 22.8 ], [ 121.0, 22.8 ], [ 121.0, 22.5 ] ] ] } },
+{ "type": "Feature", "properties": { "county": "南投縣", "avg_light": 1.5, "max_light": 2.0, "pixel_count": 4 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 121.5, 22.5 ], [ 121.8, 22.5 ], [ 121.8, 22.8 ], [ 121.5, 22.8 ], [ 121.5, 22.5 ] ] ] } },
+{ "type": "Feature", "properties": { "county": "雲林縣", "avg_light": 0.0, "max_light": 0.0, "pixel_count": 0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 122.0, 22.5 ], [ 122.3, 22.5 ], [ 122.3, 22.8 ], [ 122.0, 22.8 ], [ 122.0, 22.5 ] ] ] } },
+{ "type": "Feature", "properties": { "county": "嘉義市", "avg_light": 0.0, "max_light": 0.0, "pixel_count": 0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 122.5, 22.5 ], [ 122.8, 22.5 ], [ 122.8, 22.8 ], [ 122.5, 22.8 ], [ 122.5, 22.5 ] ] ] } },
+{ "type": "Feature", "properties": { "county": "嘉義縣", "avg_light": 27.89, "max_light": 63.0, "pixel_count": 1264 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 120.0, 23.0 ], [ 120.3, 23.0 ], [ 120.3, 23.3 ], [ 120.0, 23.3 ], [ 120.0, 23.0 ] ] ] } },
+{ "type": "Feature", "properties": { "county": "臺南市", "avg_light": 5.35, "max_light": 20.0, "pixel_count": 1138 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 120.5, 23.0 ], [ 120.8, 23.0 ], [ 120.8, 23.3 ], [ 120.5, 23.3 ], [ 120.5, 23.0 ] ] ] } },
+{ "type": "Feature", "properties": { "county": "高雄市", "avg_light": 4.34, "max_light": 12.0, "pixel_count": 510 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 121.0, 23.0 ], [ 121.3, 23.0 ], [ 121.3, 23.3 ], [ 121.0, 23.3 ], [ 121.0, 23.0 ] ] ] } },
+{ "type": "Feature", "properties": { "county": "屏東縣", "avg_light": 0.0, "max_light": 0.0, "pixel_count": 0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 121.5, 23.0 ], [ 121.8, 23.0 ], [ 121.8, 23.3 ], [ 121.5, 23.3 ], [ 121.5, 23.0 ] ] ] } },
+{ "type": "Feature", "properties": { "county": "宜蘭縣", "avg_light": 0.0, "max_light": 0.0, "pixel_count": 0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 122.0, 23.0 ], [ 122.3, 23.0 ], [ 122.3, 23.3 ], [ 122.0, 23.3 ], [ 122.0, 23.0 ] ] ] } },
+{ "type": "Feature", "properties": { "county": "花蓮縣", "avg_light": 0.0, "max_light": 0.0, "pixel_count": 0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 122.5, 23.0 ], [ 122.8, 23.0 ], [ 122.8, 23.3 ], [ 122.5, 23.3 ], [ 122.5, 23.0 ] ] ] } },
+{ "type": "Feature", "properties": { "county": "臺東縣", "avg_light": 17.75, "max_light": 59.0, "pixel_count": 1114 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 120.0, 23.5 ], [ 120.3, 23.5 ], [ 120.3, 23.8 ], [ 120.0, 23.8 ], [ 120.0, 23.5 ] ] ] } },
+{ "type": "Feature", "properties": { "county": "澎湖縣", "avg_light": 12.26, "max_light": 55.0, "pixel_count": 1259 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 120.5, 23.5 ], [ 120.8, 23.5 ], [ 120.8, 23.8 ], [ 120.5, 23.8 ], [ 120.5, 23.5 ] ] ] } },
+{ "type": "Feature", "properties": { "county": "金門縣", "avg_light": 0.0, "max_light": 0.0, "pixel_count": 0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 121.0, 23.5 ], [ 121.3, 23.5 ], [ 121.3, 23.8 ], [ 121.0, 23.8 ], [ 121.0, 23.5 ] ] ] } },
+{ "type": "Feature", "properties": { "county": "連江縣", "avg_light": 2.91, "max_light": 5.0, "pixel_count": 227 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 121.5, 23.5 ], [ 121.8, 23.5 ], [ 121.8, 23.8 ], [ 121.5, 23.8 ], [ 121.5, 23.5 ] ] ] } }
+]
+}
